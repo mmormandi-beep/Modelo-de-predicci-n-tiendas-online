@@ -6,12 +6,20 @@ Para ello se trabajó con datos de navegación y comportamiento de usuarios, uti
 El objetivo final es identificar patrones de comportamiento que permitan anticipar si un usuario finalizará una compra o abandonará el proceso.
 
 ## Fuente de datos
-
 El dataset utilizado como referencia es `Online Shoppers Purchasing Intention Dataset`.
 
 Fuente:  
 https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset
 
+Los archivos de datos no se incluyen en este repositorio.
+
+Para reproducir el proyecto, se debe crear una carpeta llamada `data/` y colocar allí los archivos:
+
+```text
+data/
+├── online_shoppers_intention.csv
+└── datos_tiendanube.csv
+El primer dataset corresponde al utilizado para el entrenamiento del modelo y el segundo corresponde al dataset que debería publicar la tienda online con sus datos propios para el análisis.
 
 ## Estructura del repositorio
 
