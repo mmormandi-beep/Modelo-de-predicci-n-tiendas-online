@@ -1,2 +1,2 @@
 # Modelo-de-predicci-n-tiendas-online
-Material útil para el proyecto del modelo de predicción de compras aplicado a las e-commerce
+Este proyecto busca brindar una herramienta de análisis a las tiendas con e-commerce para predecir que usuarios realizarán una compra efectiva o abandonarán el carrito de compras.
