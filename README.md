@@ -21,6 +21,9 @@ data/
 └── datos_tiendanube.csv
 El primer dataset corresponde al utilizado para el entrenamiento del modelo y el segundo corresponde al dataset que debería publicar la tienda online con sus datos propios para el análisis.
 
+# Web
+Se adjunta el link de la página web, creada con streamlit
+https://buyerpredict-epmzkf30awa.streamlit.app/
 ## Estructura del repositorio
 
 ```text
