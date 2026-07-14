@@ -27,8 +27,8 @@ Para reproducir el proyecto, se debe crear una carpeta llamada `data/` y colocar
 
 ```text
 data/
-├── online_shoppers_intention.csv
-└── datos_tiendanube.csv
+├── online_shoppers_test_muestra_100.csv
+└── online_shoppers_test.csv
 El primer dataset corresponde al utilizado para el entrenamiento del modelo y el segundo corresponde al dataset que debería publicar la tienda online con sus datos propios para el análisis.
 
 
