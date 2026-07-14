@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datos del proyecto
+data/*.csv
+data/*.xlsx
+data/*.xls
+data/*.parquet
+
+# Permitir el README dentro de data
+!data/README.md
